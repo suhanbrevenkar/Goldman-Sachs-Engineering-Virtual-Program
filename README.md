@@ -65,13 +65,13 @@ Use tools to identify the type of Hash Algorithm used
     bandalls:bdda5f03128bcbdfa78d8934529048cf         -  Banda11s
     
 # Findings
-   • a careful look over the recovered passwords we find users are reusing their username as part of the password which is very risky and a cake-walk to crack
-   • No strict password ppolicy implemented.
-   • MD5 hash algorithm which is not that strong is used. SHA256/SHA512 is recommended.
-   • Salting.
-   • Avoid common words and common passwords
-   • Longer the passwords, the better they are.
-   • Don’t allow reusing of passwords.
-   • Mandate use of combinations of special character, Capital and Small letters, numbers in your password.
-   • Don’t let users include their personal information like username, actual name, date of birth and others while creating a password.
-   • Mandate MFA (Multi-Factor Auth) so that it can prevent account compromise in situations of password breaches.
+    • a careful look over the recovered passwords we find users are reusing their username as part of the password which is very risky and a cake-walk to crack
+    • No strict password ppolicy implemented.
+    • MD5 hash algorithm which is not that strong is used. SHA256/SHA512 is recommended.
+    • Salting.
+    • Avoid common words and common passwords
+    • Longer the passwords, the better they are.
+    • Don’t allow reusing of passwords.
+    • Mandate use of combinations of special character, Capital and Small letters, numbers in your password.
+    • Don’t let users include their personal information like username, actual name, date of birth and others while creating a password.
+    • Mandate MFA (Multi-Factor Auth) so that it can prevent account compromise in situations of password breaches.
