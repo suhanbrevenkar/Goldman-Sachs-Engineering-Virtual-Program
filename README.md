@@ -43,7 +43,7 @@ Use tools to identify the type of Hash Algorithm used
    Password cracking is usually time consuming if one doesn't have GPU in such case, one can use Google Colab but be sure that you don't violate their policy
    
 # Result
-    HASH                                            -  CRACKED HASH
+    HASH                                              -  CRACKED HASH
     experthead:e10adc3949ba59abbe56e057f20f883e       -  123456
     interestec:25f9e794323b453885f5181f1b624d0b       -  123456789
     ortspoon:d8578edf8458ce06fbc5bb76a58c5ca4         -  qwerty
